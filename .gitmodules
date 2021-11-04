@@ -1,0 +1,3 @@
+[submodule "submodules/weather-formula"]
+	path = submodules/weather-formula
+	url = https://github.com/jf99/weather-formula.git
