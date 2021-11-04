@@ -1,0 +1,6 @@
+#ifndef TEMPERATUREPREDICTION_H
+#define TEMPERATUREPREDICTION_H
+
+float predictTemperature();
+
+#endif // TEMPERATUREPREDICTION_H
